@@ -1,1 +1,1 @@
-[📄 Read the Proposal](]PubMed_Tagger_Proposal.pdf)
+[📄 Read the Proposal](PubMed_Tagger_Proposal.pdf)
