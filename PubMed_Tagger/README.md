@@ -1,1 +1,1 @@
-[📄 Read the Proposal](NLP/PubMed%20Tagger/PubMed%20Tagger%20Proposal.pdf)
+[📄 Read the Proposal](PubMed_Tagger/PubMed_Tagger_Proposal.pdf)
